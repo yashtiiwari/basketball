@@ -1,0 +1,60 @@
+body {
+    background-image: url("purple.jpg");
+    background-size: cover;
+    font-family: "Carter One", system-ui;
+    color: #9d4edd;
+
+}
+
+@font-face {
+    font-family: "time";
+    src: url("Seven Segment.ttf");
+
+}
+
+.main-parent {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    text-align: center;
+    height: 350px;
+    width: 350px;
+    background-color: yellow;
+    border-radius: 20px;
+    border: solid 10px #a06cd5;
+
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.scorecard {
+    font-family: "time";
+
+    height: 100px;
+    width: 100px;
+    font-weight: 0;
+    font-size: 40px;
+    border-radius: 10px;
+    background-color: black;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+}
+
+.btn {
+    border-radius: 5px;
+    border: solid 2px #240046;
+    padding: 5px 5px;
+    background-color: #9d4edd;
+
+}
