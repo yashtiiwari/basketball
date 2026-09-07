@@ -2,7 +2,7 @@ body {
     background-image: url("purple.jpg");
     background-size: cover;
     font-family: "Carter One", system-ui;
-    color: #9d4edd;
+    color: #39018A;
 
 }
 
@@ -55,6 +55,6 @@ body {
     border-radius: 5px;
     border: solid 2px #240046;
     padding: 5px 5px;
-    background-color: #9d4edd;
+    background-color: #39018A;
 
 }
